@@ -54,7 +54,8 @@ import java.util.*;
 
         Calculator calc = new Calculator(a, b, op);
         calc.calculate();
-        sc.close();
+        
     }
 }
+
 
